@@ -1,4 +1,4 @@
-numpy>=1.26
+numpy>=2.5.2
 scikit-learn>=1.4
 # optional, better quality:
 # sentence-transformers>=2.7
